@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create a repeatable way for founders to operate with AI support.
+Create a structured system for founder-led company execution.
 
 ## Layers
 
@@ -12,23 +12,23 @@ Create a repeatable way for founders to operate with AI support.
 - Goals.
 - Priorities.
 
-### Knowledge
+### Decisions
 
-- Research.
-- Decisions.
-- Lessons.
+- Choices.
+- Trade-offs.
+- Ownership.
 
 ### Execution
 
 - Projects.
-- Tasks.
-- Automation.
+- Workflows.
+- Operations.
 
-### Customer
+### Intelligence
 
-- Problems.
-- Feedback.
-- Value.
+- Data.
+- AI.
+- Knowledge.
 
 ### Learning
 
@@ -40,26 +40,26 @@ Create a repeatable way for founders to operate with AI support.
 
 - Research.
 - Analysis.
-- Documentation.
 - Automation.
+- Documentation.
 
 ## Founder Responsibility
 
 Own:
 
 - Direction.
-- Judgment.
 - Standards.
+- Decisions.
 
 ## Avoid
 
-- Systems without goals.
-- Automation without understanding.
-- Activity without outcomes.
+- Tools without systems.
+- Automation without clarity.
+- Execution without strategy.
 
 ## Founder Academy Standard
 
-AI increases founder leverage when combined with a disciplined operating model.
+The operating model determines how effectively a founder turns ideas into companies.
 
 ## Research Basis
 

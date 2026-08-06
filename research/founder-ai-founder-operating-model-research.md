@@ -2,21 +2,21 @@
 
 ## Purpose
 
-Founder AI founder operating models describe how founders structure their work, decisions, systems, and company-building activities when artificial intelligence becomes a core capability.
+Founder AI founder operating models describe how founders design the complete system through which they think, decide, build, operate, and improve companies using artificial intelligence and structured processes.
 
-The objective is creating a repeatable operating method that combines human leadership with AI-powered execution.
+The objective is creating a repeatable operating model that connects founder capability with company execution.
 
 ## Core Principles
 
-A founder operating model requires:
+A strong operating model requires:
 
-- Clear priorities.
-- Defined responsibilities.
-- Reliable systems.
+- Clear roles.
+- Defined processes.
 - Decision frameworks.
-- Continuous learning.
+- Information flow.
+- Learning systems.
 
-AI improves execution, but operating principles determine effectiveness.
+AI increases capability, but the operating model determines effectiveness.
 
 ## Operating Model Layers
 
@@ -27,51 +27,50 @@ Defines:
 - Vision.
 - Goals.
 - Priorities.
-- Resource allocation.
+- Competitive direction.
 
 Purpose:
 
-Ensure effort is directed toward important outcomes.
+Determine where the company is going.
 
-## Knowledge Layer
+## Decision Layer
 
-Maintains:
+Defines:
 
-- Research.
-- Customer insights.
-- Decisions.
-- Documentation.
-- Lessons.
+- Decision processes.
+- Evaluation methods.
+- Trade-offs.
+- Ownership.
 
 Purpose:
 
-Create organizational memory.
+Improve decision quality.
 
 ## Execution Layer
 
 Manages:
 
 - Projects.
-- Tasks.
 - Workflows.
-- Automation.
+- Deliverables.
+- Operations.
 
 Purpose:
 
-Convert decisions into results.
+Turn strategy into results.
 
-## Customer Layer
+## Intelligence Layer
 
-Focuses on:
+Uses:
 
-- Problems.
-- Feedback.
-- Relationships.
-- Value creation.
+- Data.
+- Research.
+- AI analysis.
+- Knowledge systems.
 
 Purpose:
 
-Keep the company customer-centered.
+Improve understanding.
 
 ## Learning Layer
 
@@ -79,55 +78,55 @@ Captures:
 
 - Experiments.
 - Outcomes.
-- Mistakes.
+- Lessons.
 - Improvements.
 
 Purpose:
 
-Create continuous adaptation.
+Create adaptation.
 
 ## AI Role
 
 AI can support:
 
-- Research.
-- Planning.
-- Documentation.
+- Strategic research.
+- Process automation.
 - Analysis.
-- Automation.
+- Documentation.
+- Operational assistance.
 
 ## Founder Responsibility
 
 Founder owns:
 
 - Direction.
-- Judgment.
 - Standards.
+- Priorities.
 - Final decisions.
 
 ## Benefits
 
-A strong AI founder operating model can create:
+AI operating models can create:
 
 - Higher leverage.
+- Better coordination.
 - Faster execution.
-- Better decisions.
-- Stronger consistency.
+- Stronger learning.
 
 ## Common Mistakes
 
-- Building systems without priorities.
-- Automating unclear work.
-- Ignoring customers.
-- Losing strategic focus.
+- Building tools without operating principles.
+- Automating unclear processes.
+- Ignoring decision ownership.
+- Creating complexity too early.
 
 ## Founder Academy Standard
 
-The AI-era founder operates through systems, not only effort.
+A founder operating model is the bridge between vision and execution.
 
 ## Sources
 
 - High Output Management
 - Y Combinator
-- OpenAI Research
 - Lean Startup
+- OpenAI Research
