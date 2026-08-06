@@ -2,172 +2,157 @@
 
 ## Purpose
 
-Founder AI founder company operating systems describe how founders combine strategy, knowledge, products, customers, operations, automation, and artificial intelligence into a unified system for building and running companies.
+Founder AI founder company operating systems describe how founders create internal systems that allow companies to execute consistently, coordinate people, preserve knowledge, and scale operations.
 
-The objective is creating a company infrastructure that allows founders to move faster, learn continuously, and operate with higher leverage.
+The objective is creating an organizational operating system that transforms founder vision into repeatable company execution.
 
 ## Core Principles
 
 A strong company operating system requires:
 
-- Clear purpose.
-- Connected systems.
+- Clear goals.
+- Defined responsibilities.
 - Reliable processes.
 - Shared knowledge.
 - Continuous improvement.
 
-The operating system is not a collection of tools; it is the structure that connects every important company activity.
+A company grows when its systems become stronger than individual effort.
 
-## Company OS Layers
+## Company Operating System Layers
 
-## Vision Layer
+## Strategy Layer
 
 Defines:
 
 - Mission.
-- Principles.
-- Long-term direction.
-- Strategic goals.
+- Goals.
+- Priorities.
+- Strategic direction.
 
 Purpose:
 
-Provide company alignment.
+Align the organization.
+
+## Execution Layer
+
+Manages:
+
+- Projects.
+- Tasks.
+- Deadlines.
+- Accountability.
+
+Purpose:
+
+Turn strategy into results.
+
+## Process Layer
+
+Creates:
+
+- Workflows.
+- Standards.
+- Procedures.
+- Automation.
+
+Purpose:
+
+Make execution repeatable.
+
+## People Layer
+
+Develops:
+
+- Roles.
+- Responsibilities.
+- Communication.
+- Leadership.
+
+Purpose:
+
+Enable effective collaboration.
 
 ## Knowledge Layer
 
 Maintains:
 
-- Research.
-- Decisions.
 - Documentation.
+- Decisions.
 - Lessons.
-- Internal intelligence.
+- Company memory.
 
 Purpose:
 
-Create company memory.
+Prevent knowledge loss.
 
-## Product Layer
+## Culture Layer
 
-Manages:
+Defines:
 
-- Customer problems.
-- Product development.
-- User experience.
-- Improvements.
-
-Purpose:
-
-Deliver value.
-
-## Customer Layer
-
-Maintains:
-
-- Customer relationships.
-- Feedback.
-- Behaviour insights.
-- Community.
+- Values.
+- Behaviors.
+- Standards.
+- Expectations.
 
 Purpose:
 
-Stay connected to market reality.
+Guide decisions when rules do not exist.
 
-## Operations Layer
+## Improvement Layer
 
-Controls:
+Reviews:
 
-- Workflows.
-- Processes.
-- Automation.
-- Execution.
-
-Purpose:
-
-Create reliable delivery.
-
-## Intelligence Layer
-
-Uses:
-
-- AI systems.
-- Data.
-- Analytics.
-- Decision support.
+- Performance.
+- Problems.
+- Opportunities.
+- Changes.
 
 Purpose:
 
-Increase company intelligence.
-
-## Growth Layer
-
-Manages:
-
-- Distribution.
-- Marketing.
-- Sales.
-- Expansion.
-
-Purpose:
-
-Create sustainable growth.
-
-## Learning Layer
-
-Captures:
-
-- Experiments.
-- Results.
-- Improvements.
-- New knowledge.
-
-Purpose:
-
-Create a self-improving company.
+Create continuous evolution.
 
 ## AI Role
 
 AI can support:
 
-- Research.
-- Analysis.
-- Automation.
 - Documentation.
-- Customer understanding.
-- Operational assistance.
+- Process analysis.
+- Knowledge management.
+- Planning.
+- Internal communication.
 
 ## Founder Responsibility
 
 Founder owns:
 
-- Vision.
-- Strategy.
-- Values.
-- Important decisions.
+- Culture.
+- Direction.
+- Standards.
+- Strategic decisions.
 
 ## Benefits
 
-A founder AI company OS can create:
+Company operating systems can create:
 
-- Higher leverage.
-- Better coordination.
-- Faster learning.
-- More scalable operations.
+- Better execution.
+- Less dependency on individuals.
+- Faster scaling.
+- Stronger organizational memory.
 
 ## Common Mistakes
 
-- Building tools instead of systems.
-- Automating before understanding.
-- Losing customer focus.
-- Creating complexity without value.
+- Building processes too early.
+- Creating bureaucracy.
+- Ignoring documentation.
+- Scaling without systems.
 
 ## Founder Academy Standard
 
-The AI-era company operates like a living system: it remembers, learns, adapts, and improves.
+A company operating system allows founder vision to become organizational capability.
 
 ## Sources
 
 - High Output Management
-- Y Combinator
-- Lean Startup
+- Scaling Research
+- Organizational Design Research
 - OpenAI Research

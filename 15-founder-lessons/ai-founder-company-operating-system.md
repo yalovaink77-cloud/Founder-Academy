@@ -2,63 +2,57 @@
 
 ## Purpose
 
-Create a unified operating system for AI-enabled company building.
+Create internal systems that transform founder vision into company execution.
 
 ## Layers
 
-### Vision
+### Strategy
 
 - Mission.
-- Principles.
-- Direction.
+- Goals.
+- Priorities.
+
+### Execution
+
+- Projects.
+- Tasks.
+- Accountability.
+
+### Processes
+
+- Workflows.
+- Standards.
+- Automation.
+
+### People
+
+- Roles.
+- Communication.
+- Leadership.
 
 ### Knowledge
 
-- Research.
+- Documentation.
 - Decisions.
-- Lessons.
+- Memory.
 
-### Product
+### Culture
 
-- Problems.
-- Building.
-- Improvement.
+- Values.
+- Behaviors.
+- Standards.
 
-### Customer
+### Improvement
 
-- Users.
-- Feedback.
-- Relationships.
-
-### Operations
-
-- Processes.
-- Automation.
-- Execution.
-
-### Intelligence
-
-- AI.
-- Data.
-- Analysis.
-
-### Growth
-
-- Distribution.
-- Sales.
-- Expansion.
-
-### Learning
-
-- Experiments.
-- Results.
+- Reviews.
+- Learning.
 - Evolution.
 
 ## AI Supports
 
-- Research.
-- Automation.
+- Documentation.
 - Analysis.
+- Planning.
 - Knowledge.
 
 ## Founder Responsibility
@@ -66,21 +60,21 @@ Create a unified operating system for AI-enabled company building.
 Own:
 
 - Vision.
-- Strategy.
-- Decisions.
+- Culture.
+- Standards.
 
 ## Avoid
 
-- Tool collections.
-- Automation without purpose.
-- Systems disconnected from customers.
+- Chaos without systems.
+- Bureaucracy without value.
+- Growth without foundations.
 
 ## Founder Academy Standard
 
-A company operating system transforms individual founder ability into a repeatable company capability.
+A strong company operating system allows organizations to scale while preserving speed and clarity.
 
 ## Research Basis
 
 - High Output Management
-- YC
-- Lean Startup
+- Scaling Research
+- Organizational Design Research
