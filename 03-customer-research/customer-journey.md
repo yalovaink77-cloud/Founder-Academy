@@ -1,18 +1,40 @@
 # Customer Journey
 
-Every customer follows a journey.
+## Purpose
 
-Understand each step before building or marketing a product.
+Understand the complete customer experience from problem awareness to long-term retention.
 
-Stages:
+## Journey
 
-1. The problem appears.
-2. The customer looks for information.
-3. The customer discovers possible solutions.
-4. The customer compares alternatives.
-5. The customer makes a decision.
-6. The customer uses the product.
-7. The customer decides whether to continue using it.
-8. The customer recommends it or leaves it.
+1. Awareness
+2. Discovery
+3. Evaluation
+4. Purchase
+5. Onboarding
+6. First Success
+7. Regular Usage
+8. Retention
+9. Referral
 
-Products should be designed around this journey, not around features.
+## Evaluate Each Stage
+
+- Customer goal
+- Customer actions
+- Customer emotions
+- Friction
+- Opportunities
+
+## Improvement
+
+Optimize the journey continuously using customer research and behavioural data.
+
+## Founder Academy Standard
+
+Customer experience should improve at every stage of the journey.
+
+## Research Basis
+
+- Nielsen Norman Group
+- Strategyzer
+- Reforge
+- Intercom
