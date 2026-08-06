@@ -2,57 +2,65 @@
 
 ## Purpose
 
-Create increasing advantage through accumulated knowledge.
+Turn experience into reusable intelligence.
 
 ## Layers
 
-### Experience
+### Capture
 
-- Actions.
+- Research.
+- Conversations.
 - Decisions.
-- Results.
+- Experiments.
 
-### Learning
+### Processing
 
-- Lessons.
-- Patterns.
-- Improvements.
+- Insights.
+- Principles.
+- Frameworks.
+
+### Application
+
+- Decisions.
+- Products.
+- Strategies.
 
 ### Systems
 
 - Processes.
-- Frameworks.
-- Standards.
+- Templates.
+- Automation.
 
-### Intelligence
+### Improvement
 
-- Search.
-- Connections.
-- Analysis.
+- Learning.
+- Updates.
+- Evolution.
 
 ## AI Supports
 
-- Organization.
-- Retrieval.
-- Pattern discovery.
+- Extraction.
+- Search.
+- Connections.
+- Analysis.
 
 ## Founder Responsibility
 
 Own:
 
-- Questions.
+- Meaning.
+- Application.
 - Judgment.
-- Direction.
 
 ## Avoid
 
-- Undocumented learning.
-- Information without action.
+- Information collection without learning.
+- Knowledge without action.
 - Repeating mistakes.
 
 ## Founder Academy Standard
 
-Knowledge compounds when it changes future decisions.
+Knowledge becomes a competitive advantage when it compounds.
 
 ## Research Basis
 
