@@ -1,11 +1,51 @@
 # Positioning Statement
 
-A positioning statement provides a consistent description of the product.
+## Purpose
 
-Template:
+Create a concise explanation of who the product serves, what it does, and why it is different.
 
-For **[target customer]** who **[has a specific problem]**, **[product]** is a **[product category]** that **[primary value]**.
+## Template
 
-Unlike **[main alternative]**, it **[key differentiator]**.
+For:
 
-Every product should have one clear positioning statement.
+(Target Customer)
+
+Who:
+
+(Problem)
+
+Our product:
+
+(Solution)
+
+Unlike:
+
+(Current Alternative)
+
+We provide:
+
+(Primary Differentiation)
+
+Because:
+
+(Proof)
+
+## Evaluation
+
+A strong positioning statement is:
+
+- Clear
+- Specific
+- Credible
+- Relevant
+- Memorable
+
+## Founder Academy Standard
+
+Customers should understand the product within a few seconds.
+
+## Research Basis
+
+- April Dunford
+- Positioning
+- Strategyzer
