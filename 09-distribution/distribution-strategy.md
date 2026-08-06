@@ -1,13 +1,52 @@
 # Distribution Strategy
 
-A distribution strategy defines how a product consistently reaches new customers.
+## Purpose
 
-It should answer:
+Create a repeatable system for reaching customers.
 
-* Which channels will be used first?
-* Why were these channels selected?
-* How will success be measured?
-* How will the strategy evolve over time?
-* When should new channels be added?
+## Components
 
-The objective is to build repeatable customer acquisition systems rather than relying on one-time campaigns.
+Customer
+
+↓
+
+Channel
+
+↓
+
+Message
+
+↓
+
+Conversion
+
+↓
+
+Retention
+
+## Distribution Types
+
+- Organic
+- Paid
+- Sales
+- Product-led
+
+## Measure
+
+- CAC
+- Conversion
+- Activation
+- Retention
+- Revenue
+- Referral
+
+## Founder Academy Standard
+
+A product needs a distribution system as much as it needs product quality.
+
+## Research Basis
+
+- Traction
+- Crossing the Chasm
+- Reforge
+- YC
