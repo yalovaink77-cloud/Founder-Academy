@@ -2,38 +2,44 @@
 
 ## Purpose
 
-Create repeatable systems for customer discovery and growth.
+Create systems that communicate company value and create sustainable demand.
 
 ## Layers
 
-### Audience
+### Customer Insight
 
-- Customers.
-- Needs.
 - Problems.
+- Motivations.
+- Language.
+
+### Positioning
+
+- Category.
+- Difference.
+- Value.
+
+### Messaging
+
+- Stories.
+- Benefits.
+- Communication.
 
 ### Content
 
 - Education.
-- Stories.
-- Resources.
+- Trust.
+- Attention.
 
 ### Channels
 
 - Search.
 - Social.
-- Email.
 - Community.
+- Partnerships.
 
-### Campaigns
+### Measurement
 
-- Tests.
-- Launches.
-- Messaging.
-
-### Analytics
-
-- Reach.
+- Engagement.
 - Conversion.
 - Learning.
 
@@ -42,28 +48,28 @@ Create repeatable systems for customer discovery and growth.
 - Research.
 - Content.
 - Analysis.
-- Optimization.
+- Testing.
 
 ## Founder Responsibility
 
 Own:
 
 - Brand.
-- Message.
-- Strategy.
+- Positioning.
+- Customer understanding.
 
 ## Avoid
 
+- Promotion without value.
 - Content without purpose.
 - Attention without trust.
-- Metrics without learning.
 
 ## Founder Academy Standard
 
-A strong marketing system continuously learns how to connect the right people with the right value.
+Marketing systems transform company value into customer understanding.
 
 ## Research Basis
 
-- YC
-- Reforge
+- Positioning
+- Crossing the Chasm
 - Lean Startup

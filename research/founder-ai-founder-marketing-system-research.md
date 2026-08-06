@@ -2,49 +2,75 @@
 
 ## Purpose
 
-Founder AI founder marketing systems describe how founders use artificial intelligence, customer understanding, content, distribution channels, analytics, and experimentation to create repeatable systems for attracting and converting customers.
+Founder AI founder marketing systems describe how founders use artificial intelligence, customer understanding, positioning, storytelling, content systems, analytics, and distribution methods to create sustainable demand for products and companies.
 
-The objective is building a marketing engine that continuously learns and improves instead of relying only on individual campaigns.
+The objective is creating a repeatable marketing capability that connects company value with customer perception.
 
 ## Core Principles
 
 A strong marketing system requires:
 
-- Clear customer understanding.
-- Strong positioning.
-- Valuable communication.
-- Effective channels.
-- Continuous measurement.
+- Deep customer understanding.
+- Clear positioning.
+- Consistent messaging.
+- Effective distribution.
+- Continuous learning.
 
-Marketing is the connection between customer problems and valuable solutions.
+Marketing is not only promotion; it is the system that helps the market understand why a company matters.
 
 ## Marketing System Layers
 
-## Audience Layer
+## Customer Insight Layer
+
+Understands:
+
+- Customer problems.
+- Motivations.
+- Language.
+- Buying decisions.
+
+Purpose:
+
+Know who the company serves.
+
+## Positioning Layer
 
 Defines:
 
-- Customer segments.
-- Needs.
-- Problems.
-- Behaviours.
+- Market category.
+- Differentiation.
+- Unique value.
+- Competitive advantage.
 
 Purpose:
 
-Understand who the company serves.
+Create a clear place in the customer's mind.
 
-## Content Layer
+## Messaging Layer
 
 Creates:
 
-- Educational resources.
+- Value propositions.
 - Stories.
-- Guides.
-- Brand communication.
+- Educational content.
+- Communication frameworks.
 
 Purpose:
 
-Build trust and awareness.
+Make value understandable.
+
+## Content Layer
+
+Produces:
+
+- Articles.
+- Videos.
+- Guides.
+- Educational materials.
+
+Purpose:
+
+Build trust and attention.
 
 ## Channel Layer
 
@@ -52,82 +78,69 @@ Manages:
 
 - Search.
 - Social media.
-- Email.
 - Communities.
 - Partnerships.
+- Paid acquisition.
 
 Purpose:
 
-Reach customers effectively.
+Deliver messages effectively.
 
-## Campaign Layer
+## Measurement Layer
 
-Organizes:
+Tracks:
 
-- Experiments.
-- Promotions.
-- Launches.
-- Messaging tests.
-
-Purpose:
-
-Create measurable growth activities.
-
-## Analytics Layer
-
-Measures:
-
-- Reach.
+- Attention.
 - Engagement.
 - Conversion.
-- Customer acquisition.
+- Customer quality.
 
 Purpose:
 
-Improve decisions.
+Improve marketing decisions.
 
 ## AI Role
 
 AI can support:
 
 - Market research.
+- Customer analysis.
 - Content creation.
-- Audience analysis.
-- Campaign optimization.
-- Performance summaries.
+- Message testing.
+- Campaign analysis.
 
 ## Founder Responsibility
 
 Founder owns:
 
-- Brand direction.
+- Brand meaning.
+- Positioning.
 - Customer understanding.
-- Message.
-- Strategic decisions.
+- Strategic direction.
 
 ## Benefits
 
-AI marketing systems can create:
+Marketing systems can create:
 
-- Faster content production.
-- Better customer insights.
-- More efficient campaigns.
-- Continuous improvement.
+- Stronger brand recognition.
+- Lower customer acquisition costs.
+- Better market alignment.
+- Sustainable demand.
 
 ## Common Mistakes
 
-- Creating content without strategy.
-- Chasing attention instead of trust.
-- Measuring vanity metrics.
-- Ignoring customer problems.
+- Marketing without customer understanding.
+- Content without strategy.
+- Copying competitors.
+- Optimizing attention instead of trust.
 
 ## Founder Academy Standard
 
-Marketing is a learning system that connects value creation with customer discovery.
+Great marketing does not create artificial demand; it reveals and communicates real value.
 
 ## Sources
 
-- Y Combinator
-- Reforge
+- Positioning
+- Crossing the Chasm
 - Lean Startup
 - OpenAI Research
