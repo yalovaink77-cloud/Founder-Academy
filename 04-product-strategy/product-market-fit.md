@@ -1,14 +1,47 @@
 # Product-Market Fit
 
-Product-Market Fit exists when a product solves an important problem for a clearly defined customer group.
+## Purpose
 
-Questions to answer:
+Determine whether the product consistently creates enough value to support sustainable growth.
 
-* Who is the customer?
-* What problem is being solved?
-* Why is this problem important?
-* Why is this solution better?
-* Why will customers keep using it?
-* Why will customers recommend it?
+## Indicators
 
-Growth should begin only after Product-Market Fit has been demonstrated.
+- High retention
+- Repeat usage
+- Organic referrals
+- Revenue growth
+- Customer satisfaction
+- Low churn
+
+## Measure
+
+Track:
+
+- Activation
+- Retention
+- Churn
+- Referral
+- Revenue
+- Engagement
+
+## Avoid
+
+Do not use:
+
+- Downloads
+- Likes
+- Followers
+- Traffic
+
+as proof of Product-Market Fit.
+
+## Founder Academy Standard
+
+Product-Market Fit is demonstrated through sustained customer behaviour rather than initial interest.
+
+## Research Basis
+
+- Superhuman
+- Marc Andreessen
+- Reforge
+- Y Combinator
