@@ -2,35 +2,67 @@
 
 ## Purpose
 
-Use AI as an extension of founder knowledge and decision systems.
+Use AI as specialized support for founder knowledge work.
 
-## Roles
+## Layers
 
-- Research assistant.
-- Analysis assistant.
-- Documentation assistant.
-- Strategic assistant.
+### Research
 
-## Requires
+- Markets.
+- Customers.
+- Information.
 
-- Good context.
-- Organized knowledge.
-- Continuous updates.
-- Human judgment.
+### Analysis
+
+- Patterns.
+- Data.
+- Decisions.
+
+### Creation
+
+- Writing.
+- Documentation.
+- Content.
+
+### Communication
+
+- Reports.
+- Messages.
+- Presentations.
+
+### Operations
+
+- Processes.
+- Workflows.
+- Administration.
+
+## AI Supports
+
+- Research.
+- Analysis.
+- Creation.
+- Automation.
+
+## Founder Responsibility
+
+Own:
+
+- Context.
+- Questions.
+- Judgment.
 
 ## Avoid
 
 - Blind trust.
-- Unstructured information.
-- Decisions without review.
+- Poor instructions.
+- AI without review.
 
 ## Founder Academy Standard
 
-AI should increase thinking capacity while keeping strategic responsibility human.
+AI knowledge workers increase founder capacity when they are directed by clear thinking.
 
 ## Research Basis
 
 - OpenAI Research
-- Knowledge Management Research
 - YC
-- Amazon Working Backwards
+- High Output Management

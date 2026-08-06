@@ -2,95 +2,131 @@
 
 ## Purpose
 
-Founder AI knowledge worker systems describe how artificial intelligence can function as an extension of the founder's cognitive capacity by supporting research, analysis, organization, and decision preparation.
+Founder AI knowledge workers describe systems where founders use artificial intelligence as specialized assistants for research, analysis, creation, communication, and operational tasks.
 
-The objective is increasing founder intelligence and execution capacity.
+The objective is increasing founder capability by extending human expertise with AI-supported knowledge work.
 
 ## Core Principles
 
-AI knowledge systems should:
+AI knowledge work requires:
 
-- Capture information.
-- Organize knowledge.
-- Support reasoning.
-- Improve decision quality.
-- Preserve context.
+- Clear objectives.
+- Quality information.
+- Context.
+- Verification.
+- Human judgment.
 
-## AI Knowledge Roles
+AI increases productivity when it improves thinking and execution.
 
-## Research Assistant
+## Knowledge Worker Layers
+
+## Research Worker Layer
 
 Supports:
 
 - Market research.
 - Competitor analysis.
-- Industry learning.
-- Information synthesis.
+- Customer discovery.
+- Information gathering.
 
-## Analysis Assistant
+Purpose:
 
-Supports:
+Increase understanding.
 
-- Finding patterns.
-- Comparing options.
-- Identifying risks.
-- Preparing insights.
-
-## Documentation Assistant
+## Analysis Worker Layer
 
 Supports:
 
-- Decision records.
-- Summaries.
-- Internal knowledge.
+- Data interpretation.
+- Pattern discovery.
+- Comparisons.
+- Decision preparation.
+
+Purpose:
+
+Improve reasoning.
+
+## Creation Worker Layer
+
+Supports:
+
+- Writing.
+- Documentation.
+- Design assistance.
+- Content production.
+
+Purpose:
+
+Increase output.
+
+## Communication Worker Layer
+
+Supports:
+
+- Emails.
+- Reports.
+- Presentations.
+- Customer communication.
+
+Purpose:
+
+Improve information flow.
+
+## Operations Worker Layer
+
+Supports:
+
 - Process documentation.
+- Reporting.
+- Workflow assistance.
+- Administrative tasks.
 
-## Strategic Assistant
+Purpose:
 
-Supports:
+Reduce repetitive work.
 
-- Scenario analysis.
-- Planning.
-- Alternative exploration.
-- Preparation for decisions.
+## AI Role
 
-## Knowledge Foundation
+AI can support:
 
-A strong system requires:
-
-- Structured information.
-- Historical context.
-- Searchable documentation.
-- Continuous updates.
+- Research.
+- Analysis.
+- Creation.
+- Organization.
+- Automation.
 
 ## Founder Responsibility
 
-AI can assist with:
+Founder owns:
 
-- Information processing.
-- Exploration.
-- Organization.
-
-Founder remains responsible for:
-
+- Questions.
+- Context.
 - Judgment.
-- Strategy.
 - Final decisions.
+
+## Benefits
+
+AI knowledge workers can create:
+
+- Faster execution.
+- Better information access.
+- Reduced cognitive load.
+- Higher founder leverage.
 
 ## Common Mistakes
 
-- Treating AI output as truth.
-- Providing poor context.
-- Creating information without structure.
-- Losing important decisions.
+- Giving AI unclear tasks.
+- Trusting outputs without review.
+- Using AI without context.
+- Replacing thinking with automation.
 
 ## Founder Academy Standard
 
-The future founder operates with an intelligent knowledge system that increases thinking capacity.
+AI knowledge workers multiply founder capability when guided by clear goals and human judgment.
 
 ## Sources
 
 - OpenAI Research
-- Knowledge Management Research
 - Y Combinator
-- Amazon Working Backwards
+- High Output Management
+- Knowledge Work Research
