@@ -1,14 +1,46 @@
 # Tester Recruitment
 
-Recruit testers who represent real target customers.
+## Purpose
 
-For every beta define:
+Recruit beta users who provide valuable product learning.
 
-* Target tester profile
-* Recruitment channels
-* Number of testers
-* Feedback process
-* Testing duration
-* Success criteria
+## Good Testers
 
-Quality of testers is more important than quantity.
+They:
+
+- Have the problem.
+- Match target customers.
+- Use the product.
+- Give honest feedback.
+
+## Sources
+
+- Existing network
+- Communities
+- Customer interviews
+- Waitlists
+
+## Selection
+
+Evaluate:
+
+- Relevance
+- Motivation
+- Feedback quality
+- Usage likelihood
+
+## Avoid
+
+- Random testers.
+- Only friends.
+- Large uncontrolled groups.
+
+## Founder Academy Standard
+
+Beta users should represent future customers.
+
+## Research Basis
+
+- Lean Startup
+- YC
+- Steve Blank
