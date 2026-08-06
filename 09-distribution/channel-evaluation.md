@@ -1,16 +1,49 @@
 # Channel Evaluation
 
-Every distribution channel should be evaluated using the same criteria.
+## Purpose
 
-Evaluate:
+Evaluate distribution channels using evidence.
 
-* Target audience fit
-* Reach
-* Cost
-* Scalability
-* Conversion potential
-* Time required
-* Sustainability
-* Measurability
+## Criteria
 
-Avoid using channels that cannot be measured or repeated.
+### Reach
+
+Can the channel reach the target customer?
+
+### Cost
+
+How expensive is acquisition?
+
+### Conversion
+
+Does attention become customers?
+
+### Quality
+
+Do customers activate and retain?
+
+### Scalability
+
+Can the channel grow sustainably?
+
+## Testing
+
+Every channel requires:
+
+- Hypothesis.
+- Experiment.
+- Metric.
+- Decision.
+
+## Founder Academy Standard
+
+Do not choose channels by popularity.
+
+Choose channels by repeatable customer value.
+
+## Research Basis
+
+- Traction
+- Bullseye Framework
+- Reforge
+- YC
