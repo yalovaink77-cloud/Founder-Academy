@@ -1,18 +1,37 @@
 # Competitive Advantage
 
-A competitive advantage explains why a product is difficult to replace.
+## Purpose
 
-Possible advantages include:
+Identify the sustainable advantages that make the product difficult to replace.
 
-* Better customer experience
-* Better distribution
-* Lower cost
-* Higher trust
-* Faster execution
-* Better technology
-* Stronger brand
-* Network effects
-* Proprietary data
-* Unique expertise
+## Possible Advantages
 
-Features alone are rarely a sustainable competitive advantage.
+- Customer understanding
+- Brand
+- Distribution
+- Network effects
+- Data
+- Technology
+- Speed
+- Switching costs
+- Community
+
+## Evaluation
+
+A strong advantage should:
+
+- Create customer value.
+- Become stronger over time.
+- Be difficult to copy.
+- Support long-term growth.
+
+## Founder Academy Standard
+
+Competitive advantage should grow as the company grows.
+
+## Research Basis
+
+- Seven Powers
+- Blue Ocean Strategy
+- Paul Graham
+- Y Combinator
