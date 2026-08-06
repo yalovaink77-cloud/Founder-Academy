@@ -1,11 +1,57 @@
 # Revenue Strategy
 
-A revenue strategy should answer:
+## Purpose
 
-* Who pays?
-* What are they paying for?
-* When do they pay?
-* Why is the product worth paying for?
-* How will revenue grow over time?
+Create a sustainable system for generating and increasing revenue.
 
-Revenue should be predictable, measurable, and aligned with customer success.
+## Components
+
+Customer Value
+
+↓
+
+Pricing
+
+↓
+
+Revenue Model
+
+↓
+
+Acquisition
+
+↓
+
+Retention
+
+↓
+
+Expansion
+
+## Questions
+
+- Who pays?
+- Why do they pay?
+- How is value measured?
+- How does revenue grow?
+
+## Metrics
+
+Track:
+
+- Revenue.
+- CAC.
+- LTV.
+- Churn.
+- Expansion.
+
+## Founder Academy Standard
+
+Sustainable revenue comes from sustained customer value.
+
+## Research Basis
+
+- Monetizing Innovation
+- Business Model Generation
+- Stripe
+- YC
