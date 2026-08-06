@@ -1,17 +1,67 @@
 # Key Metrics
 
-Every product should define its key metrics before launch.
+## Purpose
 
-Core metrics include:
+Measure customer behaviour and business progress.
 
-* Acquisition
-* Activation
-* Retention
-* Revenue
-* Referral
-* Churn
-* Conversion
-* Customer Lifetime Value (LTV)
-* Customer Acquisition Cost (CAC)
+## Funnel
 
-Metrics should measure business outcomes, not vanity numbers.
+Acquisition
+
+↓
+
+Activation
+
+↓
+
+Retention
+
+↓
+
+Revenue
+
+↓
+
+Referral
+
+## Important Metrics
+
+### Acquisition
+
+How users arrive.
+
+### Activation
+
+Whether users receive first value.
+
+### Retention
+
+Whether users continue.
+
+### Revenue
+
+Whether value converts into business.
+
+### Referral
+
+Whether customers create growth.
+
+## Avoid
+
+Do not rely on:
+
+- Followers.
+- Views.
+- Downloads alone.
+- Traffic alone.
+
+## Founder Academy Standard
+
+Measure outcomes, not activity.
+
+## Research Basis
+
+- Lean Startup
+- Reforge
+- YC
+- AARRR
