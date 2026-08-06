@@ -1,13 +1,48 @@
 # Analytics Checklist
 
-Analytics is ready when:
+## Foundation
 
-* [ ] Success metrics are defined.
-* [ ] Events are tracked.
-* [ ] Conversion funnel is measurable.
-* [ ] Retention can be measured.
-* [ ] Revenue can be measured.
-* [ ] Dashboards are available.
-* [ ] Reports can support decision making.
+- Goals defined.
+- Questions identified.
+- Metrics selected.
 
-If a decision cannot be measured, it should be treated as an assumption.
+## Tracking
+
+- Events tracked.
+- Data quality checked.
+- Definitions documented.
+
+## Metrics
+
+Track:
+
+- Acquisition.
+- Activation.
+- Retention.
+- Revenue.
+- Referral.
+
+## Review
+
+Define:
+
+- Frequency.
+- Ownership.
+- Decisions.
+
+## Avoid
+
+- Vanity metrics.
+- Data without action.
+- Unclear measurements.
+
+## Founder Academy Standard
+
+Analytics should improve decisions and customer understanding.
+
+## Research Basis
+
+- Lean Startup
+- Reforge
+- Amplitude
+- Mixpanel
