@@ -1,16 +1,61 @@
-# Analytics Dashboard
+# Dashboard
 
-Every product should maintain a simple dashboard.
+## Purpose
 
-The dashboard should display:
+Create a decision system based on meaningful business data.
 
-* Active users
-* New users
-* Retention
-* Conversion
-* Revenue
-* Churn
-* Acquisition sources
-* Product health
+## Dashboard Areas
 
-The dashboard should help founders identify problems quickly and make informed decisions.
+### Business
+
+Track:
+
+- Revenue
+- Growth
+- Customers
+- Runway
+
+### Product
+
+Track:
+
+- Activation
+- Engagement
+- Retention
+
+### Growth
+
+Track:
+
+- Acquisition
+- Conversion
+- CAC
+- LTV
+
+### Operations
+
+Track:
+
+- Support
+- Reliability
+- Execution
+
+## Rules
+
+A dashboard should:
+
+- Support decisions.
+- Highlight changes.
+- Avoid vanity metrics.
+- Have clear ownership.
+
+## Founder Academy Standard
+
+Measure what helps the founder decide what to do next.
+
+## Research Basis
+
+- Lean Startup
+- Reforge
+- Amplitude
+- Mixpanel
