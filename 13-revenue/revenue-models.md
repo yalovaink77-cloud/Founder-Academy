@@ -1,16 +1,46 @@
 # Revenue Models
 
-Common revenue models include:
+## Purpose
 
-* Subscription
-* One-time purchase
-* Freemium
-* Usage-based pricing
-* Affiliate commissions
-* Advertising
-* Marketplace commissions
-* Enterprise licensing
-* Services
-* Digital products
+Define how the company creates sustainable income from customer value.
 
-A revenue model should align with customer value and long-term business sustainability.
+## Models
+
+- Subscription
+- Transaction
+- Usage-based
+- Freemium
+- Marketplace commission
+- Advertising
+
+## Evaluate
+
+Consider:
+
+- Customer value.
+- Predictability.
+- Scalability.
+- Retention.
+- Complexity.
+
+## Metrics
+
+Track:
+
+- Revenue.
+- MRR.
+- ARR.
+- ARPU.
+- LTV.
+- Churn.
+
+## Founder Academy Standard
+
+Revenue should grow when customers receive increasing value.
+
+## Research Basis
+
+- Business Model Generation
+- Monetizing Innovation
+- Stripe
+- YC
