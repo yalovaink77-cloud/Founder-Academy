@@ -1,15 +1,47 @@
 # Jobs To Be Done
 
-Customers do not buy products.
+## Purpose
 
-They hire products to make progress in their lives.
+Understand the progress customers are trying to make.
 
-For every product identify:
+## Core Idea
 
-* What job is the customer trying to accomplish?
-* What triggers this job?
-* What obstacles exist?
-* What does success look like?
-* When is the job considered complete?
+Customers hire products to improve their situation.
 
-Always define the job before defining the solution.
+They do not buy features.
+
+## Job Categories
+
+- Functional
+- Emotional
+- Social
+
+## Interview Objectives
+
+Discover:
+
+- Desired progress
+- Current alternatives
+- Switching barriers
+- Success criteria
+
+## Product Decisions
+
+Design around:
+
+- Outcomes
+- Progress
+- Customer behaviour
+
+Avoid designing around feature requests alone.
+
+## Founder Academy Standard
+
+Products win by helping customers make meaningful progress.
+
+## Research Basis
+
+- Clayton Christensen
+- Jobs To Be Done
+- Strategyn
+- Intercom
