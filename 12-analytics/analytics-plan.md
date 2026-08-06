@@ -1,13 +1,59 @@
 # Analytics Plan
 
-Every product must define an analytics plan before release.
+## Purpose
 
-The plan should identify:
+Create a system for measuring customer behaviour and business progress.
 
-* What will be measured?
-* Why is it important?
-* How will it be measured?
-* When will it be reviewed?
-* Who is responsible?
+## Framework
 
-Collect only data that supports better product and business decisions.
+Acquisition
+
+↓
+
+Activation
+
+↓
+
+Retention
+
+↓
+
+Revenue
+
+↓
+
+Referral
+
+## Define
+
+For each metric:
+
+- What is measured?
+- Why does it matter?
+- What decision does it support?
+
+## Events
+
+Track meaningful user actions.
+
+Avoid unnecessary data collection.
+
+## Review
+
+Regularly analyze:
+
+- Customer behaviour.
+- Funnel performance.
+- Retention.
+- Revenue.
+
+## Founder Academy Standard
+
+Analytics should create insight, not just reports.
+
+## Research Basis
+
+- Lean Startup
+- Reforge
+- Amplitude
+- Mixpanel
