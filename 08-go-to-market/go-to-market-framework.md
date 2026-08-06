@@ -1,13 +1,59 @@
 # Go-To-Market Framework
 
-Every Go-To-Market plan should answer:
+## Purpose
 
-* Who is the first customer?
-* What problem are they trying to solve?
-* Why will they choose this product?
-* Where will they discover it?
-* How will they start using it?
-* What will make them return?
-* What will make them recommend it?
+Create a repeatable process for reaching customers.
 
-A Go-To-Market strategy is successful only when real customers consistently adopt the product.
+## Components
+
+Customer
+
+↓
+
+Problem
+
+↓
+
+Positioning
+
+↓
+
+Channel
+
+↓
+
+Conversion
+
+↓
+
+Retention
+
+## Questions
+
+- Who is the customer?
+- Where can they be reached?
+- Why should they choose us?
+- How do they buy?
+- Why do they stay?
+
+## Channel Evaluation
+
+Measure:
+
+- Cost
+- Speed
+- Scalability
+- Quality of customers
+
+## Founder Academy Standard
+
+Distribution is a core product capability.
+
+A great product without distribution cannot succeed.
+
+## Research Basis
+
+- Crossing the Chasm
+- Traction
+- YC
+- Reforge
