@@ -1,18 +1,62 @@
 # Go-To-Market Playbook
 
-Every product launch follows the same sequence.
+## Purpose
 
-1. Validate the problem.
-2. Identify the target customer.
-3. Define the value proposition.
-4. Position the product.
-5. Select pricing.
-6. Prepare distribution channels.
-7. Recruit beta users.
-8. Collect feedback.
-9. Improve the product.
-10. Launch publicly.
-11. Measure results.
-12. Iterate continuously.
+Create a repeatable process for launching and growing a product.
 
-A Go-To-Market process is never finished after launch.
+## Preparation
+
+- Customer defined.
+- Problem validated.
+- Solution validated.
+- Positioning ready.
+- Pricing ready.
+- Channels selected.
+
+## Execution
+
+Awareness
+
+↓
+
+Acquisition
+
+↓
+
+Activation
+
+↓
+
+Retention
+
+↓
+
+Referral
+
+## Measure
+
+Track:
+
+- Leads
+- Conversion
+- Activation
+- Retention
+- Revenue
+- Referral
+
+## Improvement
+
+Use customer feedback and data to improve continuously.
+
+## Founder Academy Standard
+
+A launch is not an event.
+
+It is the beginning of a measurable learning process.
+
+## Research Basis
+
+- Crossing the Chasm
+- Traction
+- Reforge
+- YC
