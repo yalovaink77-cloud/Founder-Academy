@@ -1,16 +1,49 @@
 # Launch Checklist
 
-A product is ready for launch when:
+## Product
 
-* [ ] Core features are complete.
-* [ ] Analytics are enabled.
-* [ ] Crash reporting is enabled.
-* [ ] Pricing is configured.
-* [ ] Support channels are ready.
-* [ ] Privacy Policy is published.
-* [ ] Terms of Service are published.
-* [ ] Store assets are complete.
-* [ ] Launch announcement is prepared.
-* [ ] Success metrics are defined.
+- Core problem validated.
+- Product works.
+- Onboarding ready.
+- Support ready.
 
-A launch is complete only when the product is available and measurable.
+## Market
+
+- Customer defined.
+- Positioning clear.
+- Value proposition ready.
+- Pricing ready.
+
+## Distribution
+
+- Channels selected.
+- Audience identified.
+- Tracking installed.
+
+## Measurement
+
+Track:
+
+- Acquisition.
+- Activation.
+- Retention.
+- Conversion.
+- Revenue.
+
+## Post Launch
+
+- Collect feedback.
+- Analyze data.
+- Improve product.
+- Decide next actions.
+
+## Founder Academy Standard
+
+Launch begins the learning cycle; it does not end it.
+
+## Research Basis
+
+- Lean Startup
+- YC
+- Product Hunt
+- Crossing the Chasm
