@@ -1,13 +1,40 @@
 # Pricing Checklist
 
-Pricing is complete when:
+## Customer
 
-* [ ] Target customer is defined.
-* [ ] Pricing model is selected.
-* [ ] Value proposition supports the price.
-* [ ] Competitor pricing is understood.
-* [ ] Payment timing is defined.
-* [ ] Pricing assumptions are documented.
-* [ ] Pricing has been validated with real users.
+- Target customer defined.
+- Problem understood.
+- Value identified.
+- Alternatives analyzed.
 
-Pricing should evolve based on evidence and customer feedback.
+## Pricing
+
+- Pricing model selected.
+- Plans are understandable.
+- Upgrade path exists.
+- Pricing reflects value.
+
+## Validation
+
+- Payment tested.
+- Conversion measured.
+- Retention tracked.
+- Churn analyzed.
+
+## Business
+
+- Revenue model works.
+- Unit economics understood.
+- Growth is sustainable.
+
+## Founder Academy Standard
+
+Pricing decisions should be evidence-based and continuously improved.
+
+## Research Basis
+
+- Monetizing Innovation
+- ProfitWell
+- Stripe
+- Paddle
+- YC
