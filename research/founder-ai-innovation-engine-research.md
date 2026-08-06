@@ -2,63 +2,98 @@
 
 ## Purpose
 
-Founder AI innovation engines describe systems that help founders continuously discover opportunities, generate ideas, test assumptions, and create improvements using artificial intelligence and structured experimentation.
+Founder AI innovation engines describe systems where founders use artificial intelligence, experimentation, research, and creative processes to discover new opportunities and create better solutions.
 
-The objective is creating a repeatable process for innovation.
+The objective is building a repeatable innovation capability rather than relying only on individual inspiration.
 
 ## Core Principles
 
-An innovation engine requires:
+Innovation requires:
 
-- Continuous observation.
-- Problem discovery.
-- Experimentation.
-- Learning loops.
-- Knowledge reuse.
+- Understanding real problems.
+- Exploring possibilities.
+- Testing assumptions.
+- Learning quickly.
+- Improving continuously.
 
-Innovation is not random creativity.
-
-It is a disciplined system for discovering valuable improvements.
+AI accelerates exploration, but meaningful innovation comes from solving valuable problems.
 
 ## Innovation Engine Layers
 
-## Discovery Layer
+## Problem Discovery Layer
 
-Finds:
+Identifies:
 
-- Customer problems.
-- Market changes.
-- Emerging trends.
-- Unmet needs.
+- Customer frustrations.
+- Market gaps.
+- Emerging needs.
+- Unsolved problems.
 
-AI can support:
+AI supports:
 
 - Research.
-- Pattern discovery.
-- Information analysis.
+- Pattern recognition.
+- Information synthesis.
 
-## Idea Layer
+Purpose:
 
-Generates:
+Find opportunities worth exploring.
+
+## Idea Generation Layer
+
+Creates:
 
 - Possible solutions.
 - New approaches.
-- Business opportunities.
+- Alternative strategies.
+- Product concepts.
 
-Human judgment evaluates:
+AI supports:
 
-- Importance.
-- Feasibility.
-- Strategic fit.
+- Brainstorming.
+- Combination of ideas.
+- Scenario exploration.
 
-## Experiment Layer
+Purpose:
+
+Increase creative possibilities.
+
+## Experimentation Layer
 
 Tests:
 
-- Assumptions.
 - Prototypes.
+- Assumptions.
 - Customer reactions.
 - Business models.
+
+AI supports:
+
+- Experiment design.
+- Analysis.
+- Documentation.
+
+Purpose:
+
+Convert ideas into evidence.
+
+## Implementation Layer
+
+Transforms:
+
+- Validated ideas.
+- Customer insights.
+- Experiments.
+
+Into:
+
+- Products.
+- Features.
+- Systems.
+
+Purpose:
+
+Create real value.
 
 ## Learning Layer
 
@@ -66,50 +101,55 @@ Captures:
 
 - Results.
 - Failures.
-- Insights.
-- New knowledge.
+- Discoveries.
+- Improvements.
+
+Purpose:
+
+Create continuous innovation.
 
 ## AI Role
 
-AI can accelerate:
+AI can support:
 
 - Research.
-- Idea exploration.
+- Ideation.
+- Prototyping.
 - Analysis.
-- Experiment preparation.
+- Knowledge management.
 
-## Founder Role
+## Founder Responsibility
 
 Founder owns:
 
 - Problem selection.
-- Strategic direction.
-- Quality standards.
-- Final decisions.
+- Vision.
+- Creativity direction.
+- Strategic decisions.
 
 ## Benefits
 
-An AI innovation engine can create:
+AI innovation systems can create:
 
-- Faster discovery.
+- Faster exploration.
 - More experiments.
-- Better learning.
-- Stronger adaptability.
+- Better opportunities.
+- Stronger learning cycles.
 
 ## Common Mistakes
 
-- Generating ideas without validation.
-- Optimizing quantity over quality.
-- Ignoring customers.
-- Building without learning loops.
+- Creating ideas without customer problems.
+- Confusing novelty with value.
+- Avoiding experimentation.
+- Building without evidence.
 
 ## Founder Academy Standard
 
-Innovation becomes powerful when creativity is combined with disciplined validation.
+Innovation is not producing more ideas; it is discovering and delivering better solutions faster.
 
 ## Sources
 
 - Lean Startup
 - Y Combinator
+- Design Thinking Research
 - OpenAI Research
-- Jobs To Be Done

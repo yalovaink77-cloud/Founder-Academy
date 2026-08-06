@@ -2,59 +2,67 @@
 
 ## Purpose
 
-Create a repeatable system for discovering and validating opportunities.
+Create a repeatable system for discovering and building valuable solutions.
 
 ## Layers
 
-### Discovery
+### Problem Discovery
 
-- Problems.
-- Markets.
-- Trends.
+- Customers.
+- Needs.
+- Opportunities.
 
 ### Ideas
 
 - Solutions.
-- Opportunities.
+- Concepts.
+- Possibilities.
 
 ### Experiments
 
 - Tests.
 - Prototypes.
-- Feedback.
+- Evidence.
+
+### Implementation
+
+- Products.
+- Features.
+- Systems.
 
 ### Learning
 
 - Results.
-- Insights.
+- Failures.
 - Improvements.
 
 ## AI Supports
 
 - Research.
+- Ideation.
+- Prototyping.
 - Analysis.
-- Exploration.
 
 ## Founder Responsibility
 
 Own:
 
-- Direction.
-- Selection.
+- Problems.
+- Vision.
 - Decisions.
 
 ## Avoid
 
-- Ideas without validation.
-- Quantity without quality.
-- Technology-first thinking.
+- Ideas without users.
+- Innovation without validation.
+- Technology without value.
 
 ## Founder Academy Standard
 
-Innovation requires both creativity and evidence.
+AI increases innovation speed, but customer value defines success.
 
 ## Research Basis
 
 - Lean Startup
 - YC
-- OpenAI Research
+- Design Thinking Research
