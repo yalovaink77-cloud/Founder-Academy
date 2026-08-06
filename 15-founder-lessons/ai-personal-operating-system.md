@@ -2,67 +2,67 @@
 
 ## Purpose
 
-Create a personal system for better thinking and execution.
+Create a personal leverage system using AI.
 
 ## Layers
 
 ### Identity
 
 - Values.
-- Principles.
 - Goals.
+- Principles.
+
+### Focus
+
+- Priorities.
+- Time.
+- Attention.
 
 ### Knowledge
 
-- Research.
 - Notes.
+- Research.
 - Lessons.
-
-### Planning
-
-- Projects.
-- Priorities.
-- Actions.
 
 ### Execution
 
+- Plans.
+- Tasks.
 - Workflows.
-- Habits.
-- Automation.
 
-### Reflection
+### Learning
 
-- Results.
-- Lessons.
-- Improvements.
+- Experiments.
+- Reflection.
+- Improvement.
 
 ## AI Supports
 
-- Organization.
-- Analysis.
 - Planning.
-- Reflection.
+- Research.
+- Organization.
+- Automation.
 
 ## Founder Responsibility
 
 Own:
 
 - Direction.
+- Priorities.
 - Decisions.
-- Discipline.
 
 ## Avoid
 
-- Complex systems.
-- Tool collection.
-- Information without action.
+- System complexity.
+- Tracking without purpose.
+- Automation replacing thought.
 
 ## Founder Academy Standard
 
-A personal AI operating system improves founder clarity and execution.
+A strong personal OS allows founders to operate with greater clarity and leverage.
 
 ## Research Basis
 
 - Building a Second Brain
-- Knowledge Management Research
-- OpenAI Research
+- High Output Management
+- YC

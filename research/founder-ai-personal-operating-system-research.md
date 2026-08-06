@@ -2,130 +2,133 @@
 
 ## Purpose
 
-Founder AI personal operating systems describe how individual founders combine artificial intelligence, personal knowledge management, workflows, and decision frameworks to manage their own effectiveness.
+Founder AI personal operating systems describe how individual founders use artificial intelligence, routines, knowledge systems, and automation to manage themselves as high-leverage operators.
 
-The objective is creating a repeatable system for thinking, learning, and executing.
+The objective is creating a personal system that improves focus, decisions, learning, and execution.
 
 ## Core Principles
 
-A personal operating system should help founders:
+A founder personal operating system requires:
 
-- Capture information.
-- Organize priorities.
-- Make better decisions.
-- Maintain focus.
-- Improve continuously.
+- Clear priorities.
+- Strong habits.
+- Knowledge management.
+- Decision discipline.
+- Continuous improvement.
+
+AI amplifies the founder, but the founder remains responsible for direction.
 
 ## Personal OS Layers
 
 ## Identity Layer
 
-Contains:
+Defines:
 
 - Values.
+- Goals.
 - Principles.
-- Long-term goals.
-- Personal standards.
+- Long-term direction.
 
 Purpose:
 
-Guide decisions.
+Create personal alignment.
+
+## Focus Layer
+
+Manages:
+
+- Priorities.
+- Important work.
+- Time allocation.
+- Attention.
+
+Purpose:
+
+Protect valuable effort.
 
 ## Knowledge Layer
 
-Contains:
+Maintains:
 
-- Research.
 - Notes.
-- Lessons.
-- Experiences.
+- Research.
 - Ideas.
+- Lessons.
+- Decisions.
 
 Purpose:
 
 Create personal memory.
 
-## Planning Layer
-
-Contains:
-
-- Goals.
-- Projects.
-- Priorities.
-- Actions.
-
-Purpose:
-
-Transform direction into execution.
-
 ## Execution Layer
 
-Contains:
+Supports:
 
+- Planning.
+- Task management.
 - Workflows.
-- Habits.
 - Automation.
-- Review systems.
 
 Purpose:
 
-Create consistent progress.
+Convert intentions into actions.
 
-## Reflection Layer
+## Learning Layer
 
-Contains:
+Tracks:
 
+- Experiments.
 - Results.
-- Mistakes.
-- Lessons.
+- Reflections.
 - Improvements.
 
 Purpose:
 
-Increase self-learning.
+Increase capability over time.
 
 ## AI Role
 
 AI can support:
 
-- Information organization.
 - Planning.
-- Analysis.
+- Research.
+- Summaries.
+- Organization.
 - Reflection.
-- Pattern discovery.
+- Automation.
 
 ## Founder Responsibility
 
-Founder remains responsible for:
+Founder owns:
 
 - Values.
-- Choices.
-- Discipline.
-- Direction.
+- Priorities.
+- Decisions.
+- Personal growth.
 
 ## Benefits
 
-A personal AI operating system can create:
+A Founder AI Personal OS can create:
 
-- Reduced mental load.
 - Better focus.
+- Reduced cognitive load.
 - Faster learning.
 - More consistent execution.
 
 ## Common Mistakes
 
-- Collecting information without action.
-- Building complicated systems.
-- Ignoring personal priorities.
-- Using tools instead of creating habits.
+- Building systems instead of using them.
+- Tracking everything without purpose.
+- Replacing thinking with automation.
+- Ignoring personal energy and focus.
 
 ## Founder Academy Standard
 
-The founder's greatest asset is the ability to think clearly and execute consistently.
+The founder's first operating system is themselves; AI should strengthen that system.
 
 ## Sources
 
 - Building a Second Brain
-- Knowledge Management Research
-- OpenAI Research
 - High Output Management
+- Y Combinator
+- OpenAI Research
