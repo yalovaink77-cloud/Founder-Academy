@@ -1,13 +1,42 @@
 # Distribution Checklist
 
-Distribution is ready when:
+## Customer
 
-* [ ] Target customers are clearly defined.
-* [ ] Primary distribution channels are selected.
-* [ ] Channel priorities are documented.
-* [ ] Success metrics are defined.
-* [ ] Acquisition costs can be measured.
-* [ ] Distribution activities are repeatable.
-* [ ] Continuous optimization is planned.
+- Target customer defined.
+- Problem understood.
+- Customer behaviour researched.
 
-Distribution is successful when customer acquisition becomes predictable and repeatable.
+## Channel
+
+- Channel selected.
+- Channel tested.
+- Acquisition cost measured.
+
+## Message
+
+- Value proposition clear.
+- Differentiation clear.
+- Customer language used.
+
+## Conversion
+
+- Funnel measured.
+- Activation tracked.
+- Revenue tracked.
+
+## Economics
+
+- CAC understood.
+- LTV understood.
+- Retention measured.
+
+## Founder Academy Standard
+
+Distribution decisions should be based on measurable evidence.
+
+## Research Basis
+
+- Traction
+- Bullseye Framework
+- Reforge
+- YC
