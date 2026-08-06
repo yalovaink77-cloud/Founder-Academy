@@ -2,39 +2,67 @@
 
 ## Purpose
 
-Understand how AI becomes part of a sustainable business model.
+Understand how AI changes company value creation and monetization.
 
-## AI Models
+## Layers
 
-- AI SaaS.
-- AI automation services.
-- AI marketplaces.
-- AI knowledge products.
-- AI agents.
+### Customer Value
 
-## Fundamentals
+- Problem.
+- Outcome.
+- Experience.
 
-Still require:
+### Revenue
 
-- Customer problem.
-- Value proposition.
-- Distribution.
-- Revenue.
+- Pricing.
+- Monetization.
+- Economics.
+
+### Delivery
+
+- Automation.
+- Personalization.
+- Operations.
+
+### Costs
+
+- Efficiency.
+- Resources.
+- Infrastructure.
+
+### Growth
+
+- Acquisition.
 - Retention.
+- Expansion.
+
+## AI Supports
+
+- Automation.
+- Analysis.
+- Personalization.
+- Improvement.
+
+## Founder Responsibility
+
+Own:
+
+- Value.
+- Economics.
+- Strategy.
 
 ## Avoid
 
 - Technology without customers.
-- AI hype.
-- Weak business models.
+- Features without business model.
+- Growth without sustainability.
 
 ## Founder Academy Standard
 
-AI creates advantage when it delivers measurable customer value.
+AI is valuable when it creates better customer value and stronger business economics.
 
 ## Research Basis
 
-- OpenAI Research
 - YC
 - Lean Startup
 - Business Model Generation

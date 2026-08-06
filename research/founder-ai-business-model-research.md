@@ -2,118 +2,131 @@
 
 ## Purpose
 
-Founder AI business models describe how entrepreneurs create sustainable companies by combining artificial intelligence capabilities with customer problems, value creation, and scalable revenue systems.
+Founder AI business models describe how founders use artificial intelligence to create, deliver, and capture value through new or improved business models.
 
-The objective is building businesses where AI creates measurable customer value.
+The objective is understanding how AI changes the relationship between products, customers, operations, and revenue.
 
 ## Core Principles
 
-AI is not the business model.
+A strong AI business model requires:
 
-The business model requires:
+- Clear customer value.
+- Sustainable economics.
+- Efficient delivery.
+- Scalable systems.
+- Continuous adaptation.
+
+AI creates opportunities, but business fundamentals remain essential.
+
+## Business Model Layers
+
+## Customer Value Layer
+
+Defines:
 
 - Customer problem.
-- Value proposition.
-- Distribution.
-- Revenue model.
+- Desired outcome.
+- Unique value.
+- User experience.
+
+Purpose:
+
+Create meaningful customer benefit.
+
+## Revenue Layer
+
+Defines:
+
+- Pricing.
+- Monetization.
+- Revenue streams.
+- Customer lifetime value.
+
+Purpose:
+
+Create sustainable economics.
+
+## Delivery Layer
+
+AI can support:
+
+- Automation.
+- Personalization.
+- Service delivery.
+- Operational efficiency.
+
+Purpose:
+
+Deliver value efficiently.
+
+## Cost Structure Layer
+
+Optimizes:
+
+- Operations.
+- Infrastructure.
+- Labor requirements.
+- Resource allocation.
+
+Purpose:
+
+Improve business efficiency.
+
+## Growth Layer
+
+Supports:
+
+- Acquisition.
 - Retention.
+- Expansion.
+- Distribution.
 
-AI strengthens the solution.
+Purpose:
 
-## AI Business Model Types
+Increase business scale.
 
-## AI SaaS
+## AI Role
 
-Customers pay recurring fees for AI-powered software.
+AI can support:
 
-Advantages:
+- Personalization.
+- Automation.
+- Analysis.
+- Customer support.
+- Product improvement.
 
-- Predictable revenue.
-- Scalable delivery.
-- Continuous improvement.
+## Founder Responsibility
 
-Challenges:
+Founder owns:
 
-- Competition.
-- Infrastructure costs.
-- Customer retention.
+- Business model decisions.
+- Customer value.
+- Strategic choices.
+- Sustainability.
 
-## AI Automation Services
+## Benefits
 
-Companies provide AI-powered process improvement.
+AI business models can create:
 
-Examples:
-
-- Workflow automation.
-- Internal assistants.
-- Data processing.
-
-Advantages:
-
-- Faster customer validation.
-- Immediate business value.
-
-## AI-Enabled Marketplaces
-
-Platforms use AI to improve:
-
-- Matching.
-- Recommendations.
-- Efficiency.
-
-Requires:
-
-- Supply.
-- Demand.
-- Trust.
-
-## AI Knowledge Products
-
-Examples:
-
-- Research systems.
-- Educational products.
-- Specialized databases.
-
-Value comes from:
-
-- Expertise.
-- Organization.
-- Accessibility.
-
-## AI Agents As Services
-
-Customers pay for AI systems that perform specific tasks.
-
-Important factors:
-
-- Reliability.
-- Trust.
-- Human oversight.
-
-## AI Business Validation
-
-Test:
-
-- Does AI solve a painful problem?
-- Will customers pay?
-- Is value measurable?
-- Can delivery scale?
+- Lower operational costs.
+- New product categories.
+- Faster experimentation.
+- More scalable services.
 
 ## Common Mistakes
 
-- Building AI without customer need.
-- Competing only on technology.
-- Ignoring distribution.
-- Underestimating trust requirements.
+- Building AI features without customer value.
+- Ignoring pricing.
+- Confusing technology with business.
+- Scaling before validation.
 
 ## Founder Academy Standard
 
-The strongest AI businesses combine unique customer insight with effective AI implementation.
+AI creates business opportunities when technology is connected to real customer problems and sustainable economics.
 
 ## Sources
 
-- OpenAI Research
 - Y Combinator
 - Lean Startup
 - Business Model Generation
+- OpenAI Research
