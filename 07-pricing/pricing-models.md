@@ -1,16 +1,44 @@
 # Pricing Models
 
-Common pricing models include:
+## Purpose
 
-* One-time purchase
-* Subscription
-* Freemium
-* Free trial
-* Usage-based pricing
-* Tiered pricing
-* Enterprise pricing
-* Marketplace commission
-* Affiliate revenue
-* Advertising
+Select the revenue model that best aligns customer value with business growth.
 
-Choose the pricing model that best matches customer value and business goals.
+## Common Models
+
+- Subscription
+- One-time purchase
+- Usage-based
+- Tiered
+- Freemium
+- Marketplace
+- Enterprise
+
+## Evaluate
+
+- Predictability
+- Simplicity
+- Scalability
+- Expansion
+- Retention
+
+## Validation
+
+Measure:
+
+- Conversion
+- Retention
+- Churn
+- ARPU
+- LTV
+
+## Founder Academy Standard
+
+The best pricing model maximizes long-term customer value and sustainable revenue.
+
+## Research Basis
+
+- ProfitWell
+- Paddle
+- Stripe
+- OpenView
