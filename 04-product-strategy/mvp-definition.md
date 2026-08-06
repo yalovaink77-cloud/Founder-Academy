@@ -1,13 +1,38 @@
-# MVP Definition
+# Minimum Viable Product
 
-A Minimum Viable Product is the smallest product capable of validating the core value proposition.
+## Purpose
 
-An MVP must:
+Build the smallest experiment capable of producing validated learning.
 
-* Solve one important problem.
-* Serve one primary customer.
-* Deliver one clear value.
-* Be measurable.
-* Be releasable.
+## MVP Principles
 
-An MVP should not attempt to satisfy every possible customer or use case.
+- Test one important assumption.
+- Build only what is necessary.
+- Measure customer behaviour.
+- Learn quickly.
+- Improve continuously.
+
+## Possible MVPs
+
+- Landing page
+- Prototype
+- Demo video
+- Concierge MVP
+- Wizard of Oz MVP
+- Limited beta
+- Paid pilot
+
+## Success
+
+An MVP is successful when it creates validated learning.
+
+## Founder Academy Standard
+
+An MVP exists to reduce uncertainty, not to impress customers.
+
+## Research Basis
+
+- Lean Startup
+- Steve Blank
+- Strategyzer
+- Y Combinator
