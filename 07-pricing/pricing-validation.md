@@ -1,13 +1,46 @@
 # Pricing Validation
 
-Pricing should be validated with real customers.
+## Purpose
 
-Questions to answer:
+Validate willingness to pay through real customer behaviour.
 
-* Are customers willing to pay?
-* Which pricing model do they prefer?
-* What price feels reasonable?
-* At what price do they hesitate?
-* What value increases willingness to pay?
+## Methods
 
-Pricing decisions should be based on evidence, not assumptions.
+- Paid pilot
+- Pre-order
+- Pricing page tests
+- Sales conversations
+- A/B testing
+
+## Strong Evidence
+
+- Payment
+- Contract
+- Subscription
+- Upgrade
+
+## Weak Evidence
+
+- Opinions
+- Surveys
+- Likes
+- Downloads
+
+## Metrics
+
+- Conversion
+- ARPU
+- LTV
+- Churn
+- Revenue
+
+## Founder Academy Standard
+
+Only real payment validates pricing.
+
+## Research Basis
+
+- Monetizing Innovation
+- ProfitWell
+- Paddle
+- Stripe
