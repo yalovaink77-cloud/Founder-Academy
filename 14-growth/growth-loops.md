@@ -1,14 +1,50 @@
 # Growth Loops
 
-Growth loops create continuous customer acquisition and retention.
+## Purpose
 
-Examples include:
+Create repeatable systems where existing customer value produces future growth.
 
-* Referral loops
-* Content loops
-* Community loops
-* Product-led growth
-* Network effects
-* Affiliate loops
+## Loop Structure
 
-The objective is to build systems where existing customers contribute to future growth.
+Input
+
+↓
+
+User Action
+
+↓
+
+Customer Value
+
+↓
+
+New Growth
+
+## Types
+
+- Viral loops
+- Content loops
+- Referral loops
+- Product loops
+- Marketplace loops
+
+## Measure
+
+Track:
+
+- Activation.
+- Retention.
+- Sharing.
+- Referral.
+- Growth rate.
+
+## Founder Academy Standard
+
+Sustainable growth is created by systems, not only campaigns.
+
+## Research Basis
+
+- Reforge
+- Brian Balfour
+- YC
+- Lean Startup
