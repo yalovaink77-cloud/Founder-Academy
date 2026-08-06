@@ -1,13 +1,48 @@
-# Beta Checklist
+# Beta Testing Checklist
 
-A product is ready to leave beta when:
+## Preparation
 
-* [ ] Target testers completed testing.
-* [ ] Critical bugs are resolved.
-* [ ] Core workflows are validated.
-* [ ] Feedback has been reviewed.
-* [ ] Success metrics are achieved.
-* [ ] Launch blockers are removed.
-* [ ] Release decision is documented.
+- Target users defined.
+- Goals defined.
+- Metrics selected.
+- Feedback system ready.
 
-Beta testing ends only when evidence supports public release.
+## Users
+
+- Users match target segment.
+- Users understand expectations.
+- Users can provide feedback.
+
+## Onboarding
+
+- Instructions ready.
+- First success path clear.
+- Support available.
+
+## Testing
+
+Track:
+
+- Usage.
+- Errors.
+- Feedback.
+- Retention.
+
+## Decision
+
+Choose:
+
+- Continue.
+- Improve.
+- Pivot.
+- Stop.
+
+## Founder Academy Standard
+
+Beta testing exists to create learning before wider release.
+
+## Research Basis
+
+- Lean Startup
+- YC
+- Steve Blank
