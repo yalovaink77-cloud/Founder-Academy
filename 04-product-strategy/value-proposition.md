@@ -1,13 +1,56 @@
 # Value Proposition
 
-A value proposition explains why a customer should choose this product instead of available alternatives.
+## Purpose
 
-It must clearly answer:
+Explain why customers should choose this product.
 
-* Who is the customer?
-* What problem is solved?
-* What value is delivered?
-* Why is this product different?
-* Why should someone switch today?
+## Formula
 
-A weak value proposition leads to weak marketing, regardless of product quality.
+Customer
+
+↓
+
+Problem
+
+↓
+
+Solution
+
+↓
+
+Outcome
+
+↓
+
+Differentiation
+
+↓
+
+Proof
+
+## Questions
+
+- Who is the customer?
+- Which problem is solved?
+- What outcome is created?
+- Why is this better?
+- Why should it be trusted?
+
+## Evaluation
+
+A strong value proposition is:
+
+- Clear
+- Relevant
+- Credible
+- Measurable
+
+## Founder Academy Standard
+
+Customers should immediately understand the value created by the product.
+
+## Research Basis
+
+- Strategyzer
+- April Dunford
+- Jobs To Be Done
