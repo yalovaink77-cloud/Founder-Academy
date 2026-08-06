@@ -1,15 +1,40 @@
 # Post Launch
 
-Launching a product is the beginning of the next phase.
+## Purpose
 
-Immediately after launch:
+Continue learning and improving after release.
 
-* Monitor analytics.
-* Collect customer feedback.
-* Fix critical issues.
-* Measure activation.
-* Measure retention.
-* Measure revenue.
-* Prioritize improvements.
+## Priorities
 
-The first weeks after launch often provide the most valuable product insights.
+- Monitor users.
+- Collect feedback.
+- Improve onboarding.
+- Increase retention.
+- Improve conversion.
+- Measure revenue.
+
+## Metrics
+
+Track:
+
+- Acquisition.
+- Activation.
+- Retention.
+- Revenue.
+- Referral.
+
+## Avoid
+
+- Adding features without evidence.
+- Ignoring churn.
+- Scaling before retention.
+
+## Founder Academy Standard
+
+Launch starts the improvement cycle.
+
+## Research Basis
+
+- Lean Startup
+- Reforge
+- YC
