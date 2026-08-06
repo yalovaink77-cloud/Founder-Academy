@@ -1,17 +1,54 @@
 # Customer Profile
 
-Every product must define its customer before defining its features.
+## Purpose
 
-Document:
+Describe the first customer with enough detail to guide product and business decisions.
 
-* Who is the customer?
-* What are they trying to achieve?
-* What problem are they solving?
-* What frustrates them?
-* What alternatives do they use today?
-* What motivates them to change?
-* What would make them trust a new product?
+## Customer
 
-Never describe "everyone."
+- Role
+- Industry
+- Experience
+- Environment
 
-Define one specific customer first.
+## Goals
+
+- Primary objective
+- Desired outcome
+
+## Problems
+
+- Main pain
+- Frequency
+- Consequences
+
+## Current Solution
+
+- Existing tools
+- Manual work
+- Competitors
+
+## Buying
+
+- User
+- Buyer
+- Decision maker
+- Budget owner
+
+## Constraints
+
+- Budget
+- Time
+- Technology
+- Risk
+
+## Founder Academy Standard
+
+Profiles should be built from evidence collected through customer research and updated continuously.
+
+## Research Basis
+
+- Strategyzer
+- Steve Blank
+- Lean Startup
+- Jobs To Be Done
