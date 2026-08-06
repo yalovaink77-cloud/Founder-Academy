@@ -1,13 +1,58 @@
 # Value Messaging
 
-Every product must communicate value before features.
+## Purpose
 
-A message should answer:
+Communicate customer value clearly and consistently.
 
-* Who is this for?
-* What problem does it solve?
-* Why is it different?
-* Why should someone care?
-* What action should be taken next?
+## Messaging Structure
 
-Clear messaging reduces confusion and increases conversion.
+Problem
+
+↓
+
+Outcome
+
+↓
+
+Solution
+
+↓
+
+Differentiation
+
+↓
+
+Proof
+
+↓
+
+Call To Action
+
+## Evaluation
+
+A message should be:
+
+- Clear
+- Specific
+- Credible
+- Outcome-focused
+- Easy to understand
+
+## Validation
+
+Measure:
+
+- Click-through rate
+- Conversion
+- Activation
+- Customer understanding
+
+## Founder Academy Standard
+
+Customers should understand the value before understanding the technology.
+
+## Research Basis
+
+- April Dunford
+- StoryBrand
+- Strategyzer
