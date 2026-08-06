@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Founder AI autonomous companies describe a future operating model where founders combine artificial intelligence agents, automation systems, knowledge infrastructure, and human strategic leadership to operate companies with minimal traditional organizational overhead.
+Founder AI founder autonomous company systems describe how founders use artificial intelligence, autonomous agents, automation, and digital infrastructure to create companies where many operational activities can be executed with minimal human intervention.
 
-The objective is understanding how companies can become increasingly autonomous while maintaining human control over vision and important decisions.
+The objective is understanding how founders can build highly efficient organizations where humans focus on vision, judgment, relationships, and strategic decisions while AI systems handle repeatable execution.
 
 ## Core Principles
 
@@ -12,78 +12,90 @@ An autonomous company requires:
 
 - Clear objectives.
 - Reliable systems.
-- Defined responsibilities.
+- AI-enabled workflows.
 - Human oversight.
-- Continuous learning.
+- Continuous improvement.
 
-Autonomy is created through strong systems, not simply adding AI tools.
+Autonomy does not remove responsibility; it changes where human attention creates the most value.
 
 ## Autonomous Company Layers
 
 ## Agent Layer
 
-Creates:
-
-- Specialized AI agents.
-- Task execution systems.
-- Automated workflows.
-- Digital assistants.
-
-Purpose:
-
-Increase operational capacity.
-
-## Process Layer
-
-Defines:
-
-- Repeatable workflows.
-- Decision rules.
-- Operating procedures.
-- Automation boundaries.
-
-Purpose:
-
-Create reliable execution.
-
-## Intelligence Layer
-
 Uses:
 
-- Data.
-- Knowledge systems.
-- Analytics.
-- AI reasoning.
+- AI agents.
+- Specialized assistants.
+- Automated workflows.
+- Digital workers.
 
 Purpose:
 
-Improve company understanding.
+Execute repeatable knowledge tasks.
 
-## Human Leadership Layer
+## Operations Layer
+
+Automates:
+
+- Internal processes.
+- Reporting.
+- Documentation.
+- Routine decisions.
+
+Purpose:
+
+Increase operational efficiency.
+
+## Product Layer
+
+Creates:
+
+- Intelligent features.
+- Adaptive experiences.
+- Automated services.
+
+Purpose:
+
+Deliver customer value.
+
+## Decision Layer
+
+Supports:
+
+- Analysis.
+- Recommendations.
+- Scenario evaluation.
+- Strategic preparation.
+
+Purpose:
+
+Improve human decisions.
+
+## Governance Layer
 
 Maintains:
 
-- Vision.
-- Values.
-- Strategy.
-- Ethical decisions.
+- Rules.
+- Permissions.
+- Quality standards.
+- Human approvals.
 
 Purpose:
 
-Keep human direction.
+Ensure safe and reliable operation.
 
 ## Learning Layer
 
-Captures:
+Improves:
 
-- Results.
-- Feedback.
-- Improvements.
-- New knowledge.
+- Systems.
+- Agents.
+- Processes.
+- Knowledge.
 
 Purpose:
 
-Make the company smarter over time.
+Create continuous evolution.
 
 ## AI Role
 
@@ -91,43 +103,43 @@ AI can support:
 
 - Research.
 - Operations.
+- Customer service.
+- Content creation.
 - Analysis.
-- Content.
 - Automation.
-- Decision preparation.
 
 ## Founder Responsibility
 
 Founder owns:
 
-- Purpose.
-- Direction.
-- Standards.
-- Final judgment.
+- Vision.
+- Values.
+- Strategic choices.
+- Governance.
 
 ## Benefits
 
-AI autonomous company systems can create:
+Autonomous company systems can create:
 
-- Higher founder leverage.
-- Lower operational complexity.
+- Smaller operating teams.
 - Faster execution.
-- Continuous improvement.
+- Lower costs.
+- Higher founder leverage.
 
 ## Common Mistakes
 
-- Assuming AI removes the need for leadership.
-- Automating broken processes.
-- Giving agents unclear goals.
-- Ignoring security and quality.
+- Removing human oversight.
+- Automating unclear processes.
+- Building agents without goals.
+- Ignoring trust and quality.
 
 ## Founder Academy Standard
 
-The autonomous company is not a company without humans; it is a company where humans focus on the highest-value decisions.
+The autonomous company is not a company without humans; it is a company where human intelligence is focused on the highest-value decisions.
 
 ## Sources
 
-- OpenAI Research
 - AI Agent Research
+- OpenAI Research
+- Digital Transformation Research
 - Y Combinator
-- High Output Management

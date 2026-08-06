@@ -2,67 +2,72 @@
 
 ## Purpose
 
-Understand AI-enabled autonomous company structures.
+Understand companies designed around AI-driven execution systems.
 
 ## Layers
 
 ### Agents
 
 - AI workers.
-- Tasks.
+- Assistants.
 - Automation.
 
-### Processes
+### Operations
 
+- Processes.
+- Reports.
 - Workflows.
-- Rules.
-- Systems.
 
-### Intelligence
+### Product
 
-- Data.
-- Knowledge.
+- Intelligent features.
+- Adaptive services.
+
+### Decisions
+
 - Analysis.
-
-### Leadership
-
-- Vision.
-- Values.
+- Recommendations.
 - Strategy.
+
+### Governance
+
+- Rules.
+- Quality.
+- Oversight.
 
 ### Learning
 
-- Feedback.
-- Results.
-- Improvements.
+- Improvement.
+- Evolution.
+- Knowledge.
 
 ## AI Supports
 
+- Execution.
 - Research.
 - Operations.
-- Automation.
 - Analysis.
 
 ## Founder Responsibility
 
 Own:
 
-- Direction.
-- Standards.
-- Decisions.
+- Vision.
+- Governance.
+- Judgment.
 
 ## Avoid
 
-- AI without goals.
 - Automation without control.
-- Agents without responsibility.
+- Agents without purpose.
+- Technology without value.
 
 ## Founder Academy Standard
 
-AI creates leverage when autonomous systems serve human strategy.
+The autonomous company amplifies founders by turning systems into execution capacity.
 
 ## Research Basis
 
-- OpenAI Research
 - AI Agent Research
-- YC
+- OpenAI Research
+- Digital Transformation Research
