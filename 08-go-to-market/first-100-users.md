@@ -1,15 +1,48 @@
 # First 100 Users
 
-The first 100 users are not a marketing milestone.
+## Purpose
 
-They are a learning milestone.
+Acquire the first users while maximizing learning.
 
-Objectives:
+## Strategy
 
-* Observe real behavior.
-* Collect qualitative feedback.
-* Identify usability problems.
-* Measure activation and retention.
-* Validate assumptions.
+Focus on:
 
-The goal is learning, not rapid growth.
+- Direct conversations.
+- Manual onboarding.
+- Fast feedback.
+- Strong relationships.
+
+## Good First Users
+
+They:
+
+- Experience the problem.
+- Need a solution.
+- Provide feedback.
+- May recommend the product.
+
+## Channels
+
+- Direct outreach
+- Communities
+- Content
+- Partnerships
+- Personal networks
+
+## Avoid
+
+- Scaling ads too early.
+- Ignoring users.
+- Chasing vanity metrics.
+
+## Founder Academy Standard
+
+The first users create product knowledge before they create growth.
+
+## Research Basis
+
+- Y Combinator
+- Paul Graham
+- Steve Blank
+- Lean Startup
