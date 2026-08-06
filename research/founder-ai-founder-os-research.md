@@ -2,130 +2,145 @@
 
 ## Purpose
 
-Founder AI Founder OS describes an integrated operating system where founders combine artificial intelligence, knowledge management, automation, and decision frameworks to manage company creation and growth.
+Founder AI Founder OS describes a complete operating system for entrepreneurs where artificial intelligence, knowledge management, automation, decision frameworks, and business workflows are connected into one integrated environment.
 
-The objective is creating a personal and organizational system that increases founder leverage.
+The objective is creating a personal and company-level operating system that increases founder effectiveness.
 
 ## Core Principles
 
-A Founder OS should provide:
+A Founder OS requires:
 
-- Context.
-- Memory.
-- Workflows.
-- Decision support.
-- Execution systems.
+- Clear vision.
+- Structured knowledge.
+- Repeatable workflows.
+- Decision systems.
+- Learning loops.
 
-The goal is not using more tools.
+AI creates leverage when connected to a strong operating model.
 
-The goal is creating a better operating system for building.
+## Founder OS Layers
 
-## Founder OS Components
+## Vision Layer
+
+Defines:
+
+- Mission.
+- Goals.
+- Principles.
+- Strategic direction.
+
+Purpose:
+
+Maintain focus.
 
 ## Knowledge Layer
 
-Stores:
+Contains:
 
 - Research.
-- Customer insights.
 - Decisions.
-- Strategy.
+- Customer insights.
+- Lessons.
 - Documentation.
 
 Purpose:
 
-Create reusable organizational memory.
+Create memory.
 
 ## Intelligence Layer
 
-Supports:
+AI supports:
 
 - Analysis.
-- Planning.
+- Research.
+- Recommendations.
 - Pattern recognition.
-- Problem solving.
 
 Purpose:
 
-Improve decision quality.
+Increase understanding.
 
 ## Execution Layer
 
-Supports:
+Manages:
 
 - Tasks.
+- Projects.
+- Workflows.
 - Automation.
-- Content.
-- Development.
-- Operations.
 
 Purpose:
 
-Increase output.
+Convert decisions into action.
 
-## Feedback Layer
+## Business Layer
+
+Tracks:
+
+- Product.
+- Customers.
+- Revenue.
+- Growth.
+
+Purpose:
+
+Operate the company.
+
+## Learning Layer
 
 Captures:
 
+- Experiments.
 - Results.
-- Metrics.
-- Customer signals.
-- Lessons.
+- Improvements.
 
 Purpose:
 
-Create continuous improvement.
+Create continuous progress.
 
 ## AI Role
 
-AI can act as:
+AI can support:
 
-- Research assistant.
-- Strategic assistant.
-- Documentation assistant.
-- Execution assistant.
+- Research agents.
+- Knowledge retrieval.
+- Automation.
+- Decision preparation.
+- Content creation.
+- Business analysis.
 
-## Founder Role
+## Founder Responsibility
 
-Founder remains responsible for:
+Founder owns:
 
-- Vision.
-- Values.
+- Purpose.
 - Strategy.
-- Important decisions.
+- Judgment.
+- Final decisions.
 
 ## Benefits
 
-A Founder OS can create:
+A Founder AI OS can create:
 
-- Faster learning.
-- Better organization.
-- Reduced cognitive load.
-- Higher execution capacity.
-
-## Risks
-
-Important risks:
-
-- Poor information quality.
-- Too much complexity.
-- Weak decision processes.
-- Overdependence on AI.
+- Higher leverage.
+- Better focus.
+- Faster execution.
+- Stronger company memory.
 
 ## Common Mistakes
 
-- Collecting information without structure.
-- Using tools without workflows.
-- Automating before understanding.
-- Losing human judgment.
+- Building tools without systems.
+- Collecting information without action.
+- Automating unclear workflows.
+- Losing strategic focus.
 
 ## Founder Academy Standard
 
-The future founder operates with a system that combines human direction and AI capability.
+The future founder operates through intelligent systems while maintaining human leadership.
 
 ## Sources
 
 - OpenAI Research
-- Knowledge Management Research
-- Y Combinator
 - High Output Management
+- Y Combinator
+- Building a Second Brain
