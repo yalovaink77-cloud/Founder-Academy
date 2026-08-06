@@ -1,21 +1,48 @@
 # Feedback System
 
-Every beta must have a structured feedback process.
+## Purpose
 
-Collect:
+Create a structured system for collecting and acting on user feedback.
 
-* Bugs
-* Usability issues
-* Feature requests
-* Confusing workflows
-* Positive experiences
-* Missing functionality
+## Sources
 
-Classify feedback by:
+- Interviews
+- Surveys
+- Support
+- Analytics
+- Bugs
+- Feature usage
 
-* Critical
-* High
-* Medium
-* Low
+## Categories
 
-Every decision should be documented before implementation.
+- Problem
+- Request
+- Confusion
+- Bug
+- Opportunity
+
+## Prioritization
+
+Consider:
+
+- Impact
+- Frequency
+- Severity
+- Strategic value
+- Effort
+
+## Avoid
+
+- Building every request.
+- Ignoring behaviour.
+- Collecting feedback without action.
+
+## Founder Academy Standard
+
+Feedback should produce better decisions, not larger feature lists.
+
+## Research Basis
+
+- Lean Startup
+- Intercom
+- YC
