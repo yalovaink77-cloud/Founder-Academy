@@ -1,16 +1,52 @@
 # Customer Segments
 
-Not every customer should be targeted first.
+## Purpose
 
-Define customer segments and prioritize them.
+Customer segmentation identifies the first customers most likely to adopt the product.
 
-For each segment identify:
+## Objectives
 
-* Problem severity
-* Market size
-* Ability to pay
-* Ease of reaching them
-* Expected adoption speed
-* Long-term value
+- Focus product development.
+- Improve positioning.
+- Improve messaging.
+- Improve validation.
+- Improve acquisition.
 
-Choose one primary segment before expanding to others.
+## Segment Criteria
+
+Evaluate:
+
+- Problem severity
+- Frequency
+- Existing alternatives
+- Buying power
+- Reachability
+- Market size
+- Adoption likelihood
+
+## Early Adopters
+
+Look for customers who:
+
+- Already experience the problem.
+- Already use workarounds.
+- Already spend money or time.
+- Want improvement.
+
+## Validation
+
+Validate one segment before expanding.
+
+Expansion should follow evidence, not assumptions.
+
+## Founder Academy Standard
+
+A focused customer segment creates faster learning than a broad market.
+
+## Research Basis
+
+- Crossing the Chasm
+- Lean Startup
+- Steve Blank
+- Strategyzer
+- Y Combinator
