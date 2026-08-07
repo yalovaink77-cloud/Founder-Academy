@@ -1,5 +1,25 @@
 # Founder AI Agent System — Research Report
 
+## Status
+
+**LEGACY RESEARCH — SUPERSEDED FOR OPERATING POLICY**
+
+This file is preserved as early research history.
+
+Its useful observations about agent roles, governance, and founder control remain research inputs, but it is **not** the current Founder Academy operating architecture.
+
+Current source-of-truth documents are:
+
+- `research/founder-ai-agent-workflow-research.md`
+- `00-foundation/founder-ai-agent-specialization.md`
+- `00-foundation/founder-ai-context-management.md`
+- `00-foundation/founder-ai-handoff-system.md`
+- `00-foundation/founder-ai-operating-protocol.md`
+
+In particular, the earlier assumption that a founder should operate with a coordinated AI team is no longer a default. Founder Academy now uses progressive specialization: one Primary AI Collaborator by default, with separate agents introduced only when repeated evidence shows a benefit.
+
+---
+
 ## Purpose
 
 Founder AI agent systems describe how founders use autonomous or semi-autonomous AI agents to perform specialized tasks across research, operations, product development, marketing, and business management.
@@ -126,9 +146,11 @@ AI agent systems can create:
 - Automating critical decisions.
 - Building agents without workflows.
 
-## Founder Academy Standard
+## Historical Founder Academy Standard
 
-The future founder operates with a coordinated AI team, but remains responsible for direction and judgment.
+Earlier research proposed that the future founder operates with a coordinated AI team while remaining responsible for direction and judgment.
+
+This remains a possible advanced configuration, **not the default architecture**. The current standard is defined by the FA-002 operating documents listed above.
 
 ## Sources
 
