@@ -1,20 +1,34 @@
 # Founder Academy v1 Roadmap
 
+## Status
+
+**FOUNDER ACADEMY V1: COMPLETE**
+
+Complete means the reusable operating system, core founder curriculum, execution playbooks, context/AI continuity, and v1 completion criteria exist.
+
+It does not mean the Academy stops evolving or that every real project has completed every lifecycle stage.
+
+See:
+
+- `00-foundation/founder-academy-v1-definition-of-done.md`
+
+---
+
 ## Purpose
 
 Transform Founder Academy from a knowledge repository into a practical founder operating system, then use that system to build repeatable founder capability across validation, market entry, revenue, growth, and scaling.
 
 ---
 
-## Operating-System Foundation
-
-### FA-001 — Foundation Research
+## FA-001 — Foundation Research
 
 Status: **COMPLETE**
 
 Established the conceptual and research base for Founder Academy and its major founder systems.
 
-### FA-002 — Founder Academy Operating System
+---
+
+## FA-002 — Founder Academy Operating System
 
 Status: **COMPLETE**
 
@@ -28,62 +42,89 @@ Completed components:
 - FA-002.6 — Founder AI Handoff System.
 - Integrated Founder AI Operating Protocol.
 
-FA-002 completion means the Academy now has a reusable operating layer for applying its knowledge to real founder work.
+FA-002 provides a reusable operating layer for real founder work.
 
-The next direction is not to continue designing AI architecture indefinitely. The operating layer should now be used to execute the business-learning lifecycle.
+---
+
+## Founder Capability Curriculum
+
+Status: **COMPLETE FOR V1 CORE PATH**
+
+Authoritative file:
+
+- `00-foundation/founder-capability-curriculum.md`
+
+The curriculum covers:
+
+1. Opportunity framing.
+2. Validation.
+3. Customer research.
+4. Product/value strategy.
+5. Positioning and pricing.
+6. Beta and first users.
+7. Go-to-market and distribution.
+8. Launch.
+9. Analytics and economics.
+10. Growth.
+11. Advertising readiness.
+12. Scaling.
+
+Each stage defines the founder question, learning target, required outputs, evidence, and exit criteria.
+
+---
+
+## Core Execution Playbooks
+
+Status: **COMPLETE FOR V1 CORE PATH**
+
+Index:
+
+- `99-playbooks/README.md`
+
+Core procedures:
+
+- `99-playbooks/project-startup-protocol.md`
+- `99-playbooks/opportunity-validation-sprint.md`
+- `99-playbooks/customer-research-sprint.md`
+- `99-playbooks/product-value-sprint.md`
+- `99-playbooks/positioning-pricing-sprint.md`
+- `99-playbooks/beta-first-users-sprint.md`
+- `99-playbooks/go-to-market-distribution-sprint.md`
+- `99-playbooks/product-launch-sprint.md`
+- `99-playbooks/metrics-revenue-sprint.md`
+- `99-playbooks/growth-experiment-sprint.md`
+- `99-playbooks/advertising-readiness-sprint.md`
+- `99-playbooks/scaling-readiness-sprint.md`
 
 ---
 
 ## Founder Capability Lifecycle
 
-### Foundation
-
-- Vision.
-- Principles.
-- Founder OS.
-
-### Validation
-
-- Problems.
-- Customers.
-- Evidence.
-
-### Experimentation
-
-- Tests.
-- Learning.
-- Decisions.
-
-### Building
-
-- MVP.
-- Product.
-- Systems.
-
-### Market Entry
-
-- Positioning.
-- Distribution.
-- Launch.
-
-### Growth
-
-- Acquisition.
-- Activation.
-- Retention.
-- Referral.
-
-### Revenue
-
-- Pricing.
-- Economics.
-- Sustainability.
-
-### Scaling
-
-- Operations.
-- Organization.
-- Expansion.
+```text
+Opportunity
+↓
+Validation
+↓
+Customer Research
+↓
+Product Value
+↓
+Positioning + Pricing
+↓
+Beta + First Users
+↓
+GTM + Distribution
+↓
+Launch
+↓
+Analytics + Revenue
+↓
+Growth
+↓
+Advertising Readiness
+↓
+Scaling
+```
 
 ---
 
@@ -94,16 +135,16 @@ Research
 ↓
 Decision
 ↓
-Experiment
-↓
-Build
+Experiment / Action
 ↓
 Measure
 ↓
 Learn
+↓
+Next Decision
 ```
 
-The Founder AI Operating Protocol supports this loop but does not replace it.
+The Founder AI Operating Protocol supports this loop but does not replace founder judgment.
 
 ---
 
@@ -117,11 +158,22 @@ Frameworks remain product-independent and must be reusable across different prod
 
 ---
 
-## Current Strategic Direction
+## Post-v1 Strategic Direction
 
-With FA-002 complete, Founder Academy should proceed through its founder capability curriculum and apply each system to real work when appropriate.
+The next direction is **application**, not another architecture phase.
 
-Priority remains the original founder gap:
+For any real project:
+
+1. Run `99-playbooks/project-startup-protocol.md`.
+2. Audit existing evidence.
+3. Find the earliest consequential evidence gap.
+4. Run one matching sprint playbook.
+5. Measure the result.
+6. Make the founder decision.
+7. Preserve project learning in the project's own source of truth.
+8. Improve Founder Academy only when a reusable lesson emerges.
+
+Priority remains the original founder capability gap:
 
 - Validation.
 - Customer understanding.
@@ -133,9 +185,26 @@ Priority remains the original founder gap:
 - Analytics.
 - Revenue.
 - Growth.
+- Advertising when ready.
 - Scaling.
 
 AI is leverage for this work, not the destination.
+
+---
+
+## Living-System Rule
+
+V1 completion freezes neither knowledge nor execution.
+
+Future improvements should be triggered by:
+
+- New evidence.
+- Real project application.
+- Repeated workflow failure.
+- Better research.
+- Changed external conditions.
+
+Platform-specific tactics, regulations, prices, interfaces, algorithms, and policies should be researched when applied rather than permanently hard-coded into the Academy.
 
 ---
 
@@ -146,3 +215,9 @@ AI is leverage for this work, not the destination.
 - Product Management Research.
 - Founder Academy internal research systems.
 - Current AI workflow and context-engineering research used in FA-002.
+
+---
+
+## Final Direction
+
+> Founder Academy v1 is complete. The system should now be used to make better founder decisions in real projects.
