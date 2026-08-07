@@ -1,33 +1,26 @@
 # Foundation
 
-This section defines how Founder Academy works.
+This section defines how Founder Academy works and how its v1 system is applied.
 
-It establishes:
+Founder Academy v1 status: **COMPLETE**.
 
-- The purpose of the system.
-- The founder's current capabilities and gaps.
-- The project portfolio.
-- The project lifecycle.
-- The decision-making method.
-- The Founder + AI operating model.
-- Context and continuity rules.
-- The criteria for completing meaningful work.
+See:
 
-This section does not teach isolated marketing or AI tactics.
-
-It creates the operating foundation required before validation, launch, distribution, revenue, advertising, growth, or scaling work begins.
+- `founder-academy-v1-definition-of-done.md`
 
 ---
 
-## Core Files
-
-### Founder System
+## Core Founder System
 
 - `founder-profile.md` — founder strengths and capability gaps.
 - `project-portfolio.md` — projects used as case studies/application environments.
 - `founder-academy-operating-manual.md` — Academy lifecycle and operating rules.
+- `founder-capability-curriculum.md` — practical learning/application path from opportunity to scaling.
+- `founder-academy-v1-definition-of-done.md` — exact v1 completion criteria.
 
-### Founder AI Operating Layer — FA-002
+---
+
+## Founder AI Operating Layer — FA-002
 
 - `founder-ai-agent-specialization.md` — when capabilities, workflows, or separate agents should be used.
 - `founder-ai-context-management.md` — source-of-truth and context rules.
@@ -42,8 +35,30 @@ FA-002 status: **COMPLETE**.
 
 ---
 
+## Execution Layer
+
+The practical sprint procedures live in:
+
+- `../99-playbooks/README.md`
+
+A real project should normally enter Founder Academy through:
+
+- `../99-playbooks/project-startup-protocol.md`
+
+That protocol audits existing evidence and finds the earliest consequential business gap before selecting a sprint.
+
+---
+
 ## Operating Principle
 
 > AI should make the founder more capable, not make the founder manage more machinery.
 
-The operating layer now exists to support the real Founder Academy mission: validation, customers, positioning, distribution, launch, pricing, analytics, revenue, growth, and scaling.
+The operating layer exists to support the real Founder Academy mission: validation, customers, positioning, distribution, first users, launch, pricing, analytics, revenue, growth, advertising when ready, and scaling.
+
+---
+
+## Post-v1 Rule
+
+Founder Academy should now be improved primarily through real application.
+
+Use a project, run the appropriate playbook, measure what happens, preserve the project-specific lesson, and change the Academy only when the lesson is reusable beyond that one project.
